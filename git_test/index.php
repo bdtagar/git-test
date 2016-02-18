@@ -1,24 +1,12 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Date</title>
+        <title>Learning Git and NetBeans</title>
     </head>
     <body>
-        <?php
-        echo date('j F Y');
-        ?>
-        <br />
-        <?php
-        $people = array('Badar', 'Ali', 'Ahmed', 'Tagar');
-        foreach ($people as $value) {
-            echo "Person: " . $value . "<br />";
-        }
-        ?>
-        <br />
-
-        <a href="page.php">open page</a> 
-
-
+        <h1>Practice of PHP, NetBeans and Git</h1>
+        <a href="php_gd.php">Generate button using PHP GD Library</a> <br />
+        
     </body>
-</html> 
+</html>
