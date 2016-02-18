@@ -16,6 +16,6 @@
         }
         ?>
         <br />
-        <a href="page.php">open page</a>     
+        <a href="page.php">open page</a>      
     </body>
 </html> 
